@@ -1,4 +1,5 @@
 var a = 1;
 var b = 2;
 console.log(a+b*b);
-require("axios");
+console.log(a*b);
+
